@@ -1,0 +1,28 @@
+{
+  "name": "instigator",
+  "version": "0.1.0",
+  "description": "Fast and simple project bootstrapping.",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Opentrace/Instigator.git"
+  },
+  "keywords": [
+    "generate",
+    "bootstrap",
+    "project",
+    "cli",
+    "boilerplate",
+    "tool",
+    "framework"
+  ],
+  "author": "Mark Rabey <mark@opentrace.ca>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Opentrace/Instigator/issues"
+  },
+  "homepage": "https://github.com/Opentrace/Instigator#readme"
+}
